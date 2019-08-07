@@ -3,8 +3,8 @@ This algorithm uses python and easygui library to calculate your BMI given your 
 
 
 # Requirments
-python 3
-easygui
+* python 3
+* easygui
 
 # To use
 Just run the run.py file
